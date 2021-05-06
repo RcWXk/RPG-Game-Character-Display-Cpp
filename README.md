@@ -1,4 +1,4 @@
-string n;
+    string n;
     string a;
     string r;
     string sum = "150" ;
@@ -6,7 +6,6 @@ string n;
     string gender;
     int c;
     int j;
-    
     
     cout << "Enter your characters name: " << endl;
     cin >> n;
@@ -16,9 +15,6 @@ string n;
     cin >> r;
     
     
-
-
-
     cout << "\n------------------------------------------";
     cout << "\nYour character name is: " + n;
     cout << "\nYour character age is: " + a;
